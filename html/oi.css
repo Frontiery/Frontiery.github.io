@@ -1,0 +1,37 @@
+main{
+    display: flex;
+}
+
+section{
+    border: 1px solid gray;
+}
+.eu{
+    width: 20%;
+    padding-bottom: 6cm;
+}
+.infos{
+    width: 80%;
+    padding-left: 1cm;
+
+}
+footer{
+    display: flex;
+    border: 1px solid gray;
+    padding-bottom: 1cm;
+    
+}
+img{
+    width: 50%;
+    padding-left: 25%;
+    padding-top: 1cm; 
+}
+h1{
+    padding-left: 15%;
+}
+p{
+    padding-left: 15%;
+}
+h4{
+    padding-left: 45%;
+    padding-top: 1%;
+}
